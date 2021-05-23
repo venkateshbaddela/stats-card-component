@@ -29,8 +29,10 @@ Users should be able to:
 
 ### Screenshot
 
-![] (![desktop-design](https://user-images.githubusercontent.com/84497133/119254515-58ab1500-bbd4-11eb-8003-9950cd31064b.png)
-)
+![desktop-design] 
+![desktop-design](https://user-images.githubusercontent.com/84497133/119254596-c9523180-bbd4-11eb-9b97-944e8ad06da8.png)
+
+
 
 
 ### Links

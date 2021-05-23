@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-stats-card-using-css-grid-flexbox-and-mediaqueries-Q3G0BKN4J]
 - Live Site URL: [https://venkateshbaddela.github.io/stats-card-component/]
 
 ### Built with

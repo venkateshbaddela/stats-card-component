@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-[https://github.com/venkateshbaddela/stats-card-component/blob/master/finished-designs/desktop-design.png?raw=true]
+![}(finished-designs/desktop-design.png)
 [finished-designs/mobile-design.png]
 
 ### Links

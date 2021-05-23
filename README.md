@@ -9,9 +9,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [My process](#my-process)
 - [Built with](#built-with)
-- [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -59,13 +57,13 @@ Want to continue focusing on in future projects on areaslike:
 ### Useful resources
 
 - [Stackoverflow answer](https://www.456bereastreet.com/archive/201112/the_difference_between_widthauto_and_width100/) - This helped me to understand the difference between width auto and 100%.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
 
 ## Author
 
-- Website - [venkatesh.b](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--
+
+- Frontend Mentor - [@venkateshbaddela](https://www.frontendmentor.io/profile/venkateshbaddela)
+
 
 ## Acknowledgments
 

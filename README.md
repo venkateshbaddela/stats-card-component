@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![] (https://github.com/venkateshbaddela/stats-card-component/blob/master/finished-designs/desktop-design.png?raw=true)
+![] (![desktop-design](https://user-images.githubusercontent.com/84497133/119254515-58ab1500-bbd4-11eb-8003-9950cd31064b.png)
+)
 
 
 ### Links

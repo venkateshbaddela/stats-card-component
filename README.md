@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![] (finished-designs/desktop-design.png)
+![] (finished-designs/desktop-design.png?raw=true "Optional Title"))
 
 
 ### Links
